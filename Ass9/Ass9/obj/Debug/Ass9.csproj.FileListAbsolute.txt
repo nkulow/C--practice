@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Ass9\Ass9\bin\Debug\Ass9.exe.config
+C:\Users\admin\source\repos\Ass9\Ass9\bin\Debug\Ass9.exe
+C:\Users\admin\source\repos\Ass9\Ass9\bin\Debug\Ass9.pdb
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.Form1.resources
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.Form2.resources
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.Properties.Resources.resources
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.exe
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.pdb
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.Form4.resources
+C:\Users\admin\source\repos\Ass9\Ass9\obj\Debug\Ass9.Form3.resources
