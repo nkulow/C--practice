@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\bin\Debug\Ass5_vs.exe.config
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\bin\Debug\Ass5_vs.exe
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\bin\Debug\Ass5_vs.pdb
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.Properties.Resources.resources
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.exe
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.pdb
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.Welcome.resources
+C:\Users\admin\source\repos\Ass5_vs\Ass5_vs\obj\Debug\Ass5_vs.Form1.resources
