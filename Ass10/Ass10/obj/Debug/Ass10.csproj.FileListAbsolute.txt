@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Ass10\Ass10\bin\Debug\Ass10.exe.config
+C:\Users\admin\source\repos\Ass10\Ass10\bin\Debug\Ass10.exe
+C:\Users\admin\source\repos\Ass10\Ass10\bin\Debug\Ass10.pdb
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.Form1.resources
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.Properties.Resources.resources
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.exe
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.pdb
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.Form2.resources
+C:\Users\admin\source\repos\Ass10\Ass10\obj\Debug\Ass10.Form3.resources
